@@ -1,0 +1,7 @@
+module.exports = [
+    'TEST',
+    'TT',
+    101_000_000,
+    '0x6EDCE65403992e310A62460808c4b910D972f10f',
+    '0xD74b911C89aeE02637D4b9B3C8D9bB9CE30a4389',
+];

@@ -1,0 +1,10 @@
+{
+  "sepolia": {
+    "contractName": "OmnichainToken",
+    "address": "0xCdF494D472c0Fe908488164ed2A73A2f42D549F2"
+  },
+  "sepoliaBase": {
+    "contractName": "Cookie",
+    "address": "0x6367235AbFCc7f49F9efD3cB0e31186e86d64224"
+  }
+}
